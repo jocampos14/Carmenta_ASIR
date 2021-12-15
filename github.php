@@ -10,6 +10,7 @@
             $numero=mt_rand(0,1);
             if ($numero==0) echo "<img src='Imagenes/img1.jpg'>";
             else echo "<img src='Imagenes/img2.jpg'>";
+            echo "cositas";
         ?>
     </body>
 </html>
