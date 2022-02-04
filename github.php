@@ -5,6 +5,8 @@
             <title>Título</title>
     </head>
     <body>
+        <!-- rober marica-->
+        <h1>GRANDE</h1>
          <!-- muestra un número aleatorio de dos -->
         <?php
             $numero=mt_rand(0,1);
